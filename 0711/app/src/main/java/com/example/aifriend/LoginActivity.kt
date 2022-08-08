@@ -105,6 +105,8 @@ class LoginActivity : AppCompatActivity(){
             .collection("favorite").document("AI친구").set(favData)
     }
 
+
+//    board
     //뒤로가기로 앱 종료
     override fun onBackPressed() {
         // 뒤로가기 버튼 클릭
