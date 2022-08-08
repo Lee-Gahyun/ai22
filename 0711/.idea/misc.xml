@@ -15,6 +15,15 @@
         <entry key="..\:/Users/jenny/Desktop/ai/aifriend/app/src/main/res/layout/fragment_tab1.xml" value="0.17916666666666667" />
         <entry key="..\:/Users/jenny/Desktop/ai/aifriend/app/src/main/res/layout/fragment_tab2.xml" value="0.17916666666666667" />
         <entry key="..\:/Users/jenny/Desktop/ai/aifriend/app/src/main/res/layout/fragment_tab3.xml" value="0.24947916666666667" />
+        <entry key="app/src/main/res/drawable/bg_round_edittext.xml" value="0.1745" />
+        <entry key="app/src/main/res/drawable/ic_add.xml" value="0.1745" />
+        <entry key="app/src/main/res/layout/activity_add_board.xml" value="0.2504528985507246" />
+        <entry key="app/src/main/res/layout/activity_favorite.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_join.xml" value="0.6362348778752691" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.13880445795339413" />
+        <entry key="app/src/main/res/layout/fragment_tab2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_board.xml" value="0.2504528985507246" />
+        <entry key="app/src/main/res/layout/item_favorite.xml" value="0.13829787234042554" />
       </map>
     </option>
   </component>
